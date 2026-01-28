@@ -1,0 +1,6 @@
+DatabaseUsername = "postgres"
+DatabasePassword = "postgres"
+DatabaseHost = "localhost"
+DatabasePort = 5432
+ServerPort = 1234
+ServerName = "localhost"
