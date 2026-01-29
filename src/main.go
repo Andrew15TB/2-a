@@ -1,8 +1,7 @@
 package main
 
 func main() {
-	print("F**k Go Package")
-	getConfigFile()
+	println("F**k Go Package")
 	println(cfg.DatabaseHost)
 	println(cfg.DatabasePassword)
 	println(cfg.DatabaseUsername)
